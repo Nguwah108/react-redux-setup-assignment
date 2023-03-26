@@ -1,0 +1,20 @@
+{
+    "users":[
+        {
+          "id":1,
+          "username":"John",
+          "phone":"0988877766"
+        },
+        {
+          "id":2,
+          "username":"Bob",
+          "phone":"095544366"
+        },
+        {
+          "id":3,
+          "username":"Alex",
+          "phone":"098237766"
+        }
+
+    ]
+}
